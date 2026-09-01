@@ -1,9 +1,0 @@
-﻿streamlit
-pandas
-requests
-ploty
-scikit-learn
-
-
-
-	
